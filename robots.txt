@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tienhotze.github.io/notes-qzmcyj/sitemap.xml
